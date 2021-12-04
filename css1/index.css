@@ -1,0 +1,30 @@
+.mcontainer{
+    height: 80vh;
+   
+}
+
+.error1{
+    opacity: 1;
+    font-weight: bold;
+    color: white;
+    
+}
+.switch{
+  overflow: hidden; height: 20px; width: 150px;   display: flex;margin: 25px auto;border-radius: 30px;box-shadow: 0 0 2px 2px  lightblue;position: relative;
+
+}
+.btnw{
+ width: 50%;  background: transparent;outline: none;border: none;height: 20px;position: relative;cursor: pointer;
+  font-size: 12px;
+}
+.col2{
+  position: absolute;
+  background:#1ba8f7;
+  width: 75px;
+  left: 0;
+  height: 20px;
+  transition: 1s;
+  border-radius: 10px;
+
+}
+

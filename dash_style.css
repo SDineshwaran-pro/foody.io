@@ -1,0 +1,28 @@
+body{
+
+    background-image: url("dashback.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    
+}
+.slide{
+    width: 260px;
+    margin-top: 80px;
+    margin-left: -70px;
+    background-color: rgba(0, 0, 0, 0.741);
+    padding: 100px;
+    margin-left: -239px;
+    box-shadow: 2px 2px 10px white;
+    transition-duration: 1s;
+}
+
+.dash , .menu , .order , .cust{
+    color: white;
+    line-height: 60px;
+    font-size: 20px;
+    
+}
+.slide:hover {
+    margin-left:-50px;
+}
